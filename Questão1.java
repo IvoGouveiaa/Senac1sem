@@ -1,3 +1,9 @@
+//Foi realizada uma pesquisa sobre algumas características físicas de cinco habitantes de uma região. Foram coletados os seguintes dados de cada habitante: sexo, cor dos olhos (A - azuis ou C - castanhos), cor dos cabelos (L - louros, P - pretos ou C - castanhos) e idade.
+//- Faça uma função que leia esses dados, armazenando-os em vetores.
+//- Faça uma função que determine e desenvolva ao programa principal a média de idade das pessoas com os olhos olhos castanhos e cabelos pretos
+//- Faça uma função que determine e desenvolva ao programa principal a maior idade entre os habitantes.
+//- Faça uma função que determine e desenvolva ao programa principal a quantidade de indivíduosso sexo feminino com idade entre 18 e 35 anos (inclusive) e que tenham olhos azuis e cabelos louros
+
 import java.util.Scanner;
 public class Q1 {
 Scanner sc = new Scanner(System.in);
